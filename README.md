@@ -1,2 +1,0 @@
-﻿# Analisis-de-operadores-ineficaces
-
